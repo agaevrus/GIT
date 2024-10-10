@@ -16,8 +16,8 @@ ___
 >цитаата 
 привет
 
-[Обучение]([link](https://www.youtube.com/watch?v=zUzQG7hmdNM&t=6871s)}
+[Обучение](https://www.youtube.com/watch?v=zUzQG7hmdNM&t=6871s)
 
-![картинка](linkg to img}
+![картинка](IMG.jpeg)
 
  
